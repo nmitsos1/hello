@@ -2,8 +2,9 @@
   "name": "hello",
   "version": "1.0.0",
   "dependencies": {
-	"express":"4.16.2"
-  },
+	"express":"4.16.2",
+	"dotenv":"5.0.0"
+},
   "description": "First Project",
   "main": "index.js",
   "scripts": {
